@@ -16,7 +16,7 @@ class DopamineCode < Formula
   desc "Menu bar app that keeps your Mac awake with the lid closed"
   homepage "https://github.com/peter46jan/dopamine-code"
   url "https://github.com/peter46jan/dopamine-code/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "6de8619c5c63c505e49ebfb5915cd6a964abebee709261c96dca554175e36eb2"
+  sha256 "1e2f8f9ec6ce6f1ce9d6f1ee41a938c16ad057f5b932d597c455171da4065205"
   license "MIT"
   head "https://github.com/peter46jan/dopamine-code.git", branch: "main"
 
